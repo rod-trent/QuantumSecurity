@@ -12,4 +12,4 @@ The following are links to the entire series so far:
 
 <b><h1>References:</h1></b>
 
-* <a href="https://www.microsoft.com/en-us/security/blog/2023/11/01/starting-your-journey-to-become-quantum-safe/" target="_blank">Starting your journey to become quantum-safe</a><br> - knowing which data to secure now is a first step on the path to a quantum-safe future.
+* <a href="https://www.microsoft.com/en-us/security/blog/2023/11/01/starting-your-journey-to-become-quantum-safe/" target="_blank">Starting your journey to become quantum-safe</a> - knowing which data to secure now is a first step on the path to a quantum-safe future.<br>
