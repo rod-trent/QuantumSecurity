@@ -8,6 +8,8 @@ Learning the concepts of securing Quantum computing - *Coming 2024*
 The following are links to the entire series so far:
 <br><br>
 * <a href="https://rodtrent.substack.com/p/must-learn-quantum-security-preface" target="_blank">Must Learn Quantum Security Preface: The Power of Quantum Computing in Advancing Artificial Intelligence</a> - <i>Posted September 15, 2023</i><br>
+* <a href="https://rodtrent.substack.com/p/the-challenges-and-benefits-of-quantum" target="_blank">The Challenges and Benefits of Quantum Computing Security</a> - <i>Posted February 19, 2024</i><br>
+* <a href="https://rodtrent.substack.com/p/quantum-computing-and-generative" target="_blank">Quantum Computing and Generative AI: Prospects and Challenges</a> - <i>Posted February 22, 2024</i><br>
 
 
 <b><h1>References:</h1></b>
